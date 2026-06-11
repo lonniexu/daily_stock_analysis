@@ -19,7 +19,7 @@ yfinance>=0.2.0             # Priority 4: Yahoo Finance (Fallback)
 longbridge>=0.2.77           # Priority 5: Longbridge OpenAPI fallback for US/HK stocks; OAuth capability checked at runtime
 tickflow>=0.1.0            # TickFlow official SDK (Issue #632, market review enhancement)
 # Built-in optional AlphaSift screening engine
-git+https://github.com/ZhuLinsen/alphasift/archive/refs/heads/master.zip
+https://github.com/ZhuLinsen/alphasift/archive/refs/heads/master.zip
 
 
 # Feishu
